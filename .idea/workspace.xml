@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfe8bccf-1375-4f27-a138-a3ba7b96edff" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="tree_based_extractor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tree_based_extractor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="556">
+              <caret line="100" column="16" lean-forward="true" selection-start-line="100" selection-start-column="16" selection-end-line="100" selection-end-column="16" />
+              <folding>
+                <element signature="e#135#154#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mean_decrease_accuracy.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mean_decrease_accuracy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2304">
+              <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+              <folding>
+                <element signature="e#136#184#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data/Student_CancerDetection.csv" />
+        <option value="$PROJECT_DIR$/data/Student_DifferentCancerDetection.csv" />
+        <option value="$PROJECT_DIR$/result/gen_sex_label.py" />
+        <option value="$PROJECT_DIR$/tree_based_extractor.py" />
+        <option value="$PROJECT_DIR$/mean_decrease_accuracy.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="816" />
+    <option name="y" value="361" />
+    <option name="width" value="931" />
+    <option name="height" value="928" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cancer_feature_extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cancer_feature_extractor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cancer_feature_extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cancer_feature_extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cancer_feature_extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cancer_feature_extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/result" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.mean_decrease_accuracy">
+    <configuration name="gen_sex_label" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cancer_feature_extractor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/result" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/result/gen_sex_label.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="mean_decrease_accuracy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cancer_feature_extractor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mean_decrease_accuracy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="tree_based_extractor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cancer_feature_extractor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tree_based_extractor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.tree_based_extractor" />
+      <item itemvalue="Python.mean_decrease_accuracy" />
+      <item itemvalue="Python.gen_sex_label" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mean_decrease_accuracy" />
+        <item itemvalue="Python.tree_based_extractor" />
+        <item itemvalue="Python.gen_sex_label" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfe8bccf-1375-4f27-a138-a3ba7b96edff" name="Default" comment="" />
+      <created>1524659259318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524659259318</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="816" y="361" width="931" height="928" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.4647577" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.330413" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32984293" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tree_based_extractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1548">
+          <caret line="91" column="10" lean-forward="true" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="10" />
+          <folding>
+            <element signature="e#135#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Student_CancerDetection.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Student_CancerDetection.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/ensemble/forest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="537" selection-start-line="537" selection-end-line="537" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/sklearn/utils/multiclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fs_erf.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/gen_sex_label.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="e#127#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Student_DifferentCancerDetection.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="92" column="297" selection-start-line="92" selection-start-column="297" selection-end-line="92" selection-end-column="297" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tree_based_extractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="100" column="16" lean-forward="true" selection-start-line="100" selection-start-column="16" selection-end-line="100" selection-end-column="16" />
+          <folding>
+            <element signature="e#135#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mean_decrease_accuracy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2304">
+          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+          <folding>
+            <element signature="e#136#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
